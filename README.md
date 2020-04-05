@@ -91,12 +91,12 @@ Accuracy:  30 + 25 / 100                 = 0.60 or 60%
 ![Decision Tree Classification Report](images/cr_dt.png)
 
 ## Best model
-Based on the perfomance metrics above, I will choose overall accuracy. Since our data is balanced, meaning a split between 50/50 true and negative samples, I can choose **accuracy**. The best model that gives me the best **accuracy** is the Logistic Regression model.
+Based on the performance metrics above, I will choose overall accuracy. Since our data is balanced, meaning a split between 50/50 true and negative samples, I can choose **accuracy**. The best model that gives me the best **accuracy** is the Logistic Regression model.
 
 ## Useful Links / Resources:
 - [Classification Report](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
 - [Type I and II errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
-- [Precision and Recal](https://en.wikipedia.org/wiki/Precision_and_recall)
+- [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 - [F1 Score](https://en.wikipedia.org/wiki/F1_score)
 - [Model Selection: Accuracy, Precision, Recall or F1?](https://koopingshung.com/blog/machine-learning-model-selection-accuracy-precision-recall-f1/)
 - [What’s the deal with Accuracy, Precision, Recall and F1?](https://towardsdatascience.com/whats-the-deal-with-accuracy-precision-recall-and-f1-f5d8b4db1021)
